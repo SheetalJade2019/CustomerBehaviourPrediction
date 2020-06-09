@@ -1,0 +1,13 @@
+This folder contains code. 
+we have compared following machine learning models
+
+Adaboost classifier
+Decision Tree classifier
+GBM(Gradient Boosting Machine)
+KNN (K-Nearest Neighbor)
+Logistic Regression
+Multi-Layered Perceptron Neural Network (MLPNN)
+Nave Bayes (NB)
+Random Forest Algorithm (RFA)
+Support Vector Classification algorithm (SVC)
+XGB (XGBoost)
