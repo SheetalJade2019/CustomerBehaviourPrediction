@@ -13,7 +13,24 @@ Nowadays people are very busy. They don't have time to go to shop. So, Customers
 Customer Behavior Prediction Model :
 
 ![alt text](https://github.com/SheetalJade2019/CustomerBehaviourPrediction/blob/master/CBPM.png)
+
+Problem Statement :
+
+   •    To propose efficient model for customer behavior mining in the domain of online shopping.
+   •    Study and understand the current research work being done in this area.
+   •    Improving feature engineering to improve accuracy of model.
+   •    Selecting best suitable algorithm for classification.
   
+Objective :
+
+
+   •    To make the literature survey in the field of customer behavior prediction.
+   •    Selecting best suitable classification algorithm by comparing various algorithms.
+   •    Feature selection to improve accuracy and reduce unnecessary processing overhead.
+   
+Proposed System Design :
+
+
 
 
 
