@@ -24,6 +24,7 @@ Customer Behavior Prediction Model :
 Problem Statement :
 
 
+
 To propose efficient model for customer behavior mining in the domain of online shopping. 
 
 Study and understand the current research work being done in this area. 
@@ -33,7 +34,9 @@ Improving feature engineering to improve accuracy of model.
 Selecting best suitable algorithm for classification.
   
 
+
 Objective :
+
 
 
 To make the literature survey in the field of customer behavior prediction. 
@@ -42,6 +45,7 @@ Selecting best suitable classification algorithm by comparing various algorithms
 
 Feature selection to improve accuracy and reduce unnecessary processing overhead.
    
+
 
 Proposed System Design :
 
@@ -61,7 +65,9 @@ Feature Selection :
 ![alt text](https://github.com/SheetalJade2019/CustomerBehaviourPrediction/blob/master/screenshot/FS.png)
 
 
+
 Experimentation and Results :
+
 
 
 Accuracy of models during 10 folds with 80-20 split of data
@@ -100,7 +106,9 @@ Classification Report for RFA
 ![alt text](https://github.com/SheetalJade2019/CustomerBehaviourPrediction/blob/master/screenshot/ClassificationReport.png)
 
 
+
 Conclusion :
+
 
 
 To conclude with the analysis, we have understood that customers purchase chances are more if Bounce Rate is below 0.050 and exit
@@ -117,7 +125,9 @@ Finally, we understood that online purchasing must be emphasized and improved mo
 customers whereas the use of promo codes must be emphasized with both Visitor Types.
 
 
+
 Future Scope :
+
 
 
 Suggesting promotional tools for improving the sales profit.
