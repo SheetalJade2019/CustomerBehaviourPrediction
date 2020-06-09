@@ -12,7 +12,7 @@ Nowadays people are very busy. They don't have time to go to shop. So, Customers
 
 Customer Behavior Prediction Model :
 
-
+![alt text](https://github.com/SheetalJade2019/CustomerBehaviourPrediction/blob/master/CBPM.png)
   
 
 
