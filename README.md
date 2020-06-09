@@ -24,39 +24,57 @@ To make the literature survey in the field of customer behavior prediction. Sele
    
 Proposed System Design :
 
+
 ![alt text](https://github.com/SheetalJade2019/CustomerBehaviourPrediction/blob/master/screenshot/PSD.png)
+
 
 Correlation Matrix :
 
+
 ![alt text](https://github.com/SheetalJade2019/CustomerBehaviourPrediction/blob/master/screenshot/CM.png)
+
 
 Feature Selection :
 
+
 ![alt text](https://github.com/SheetalJade2019/CustomerBehaviourPrediction/blob/master/screenshot/FS.png)
+
 
 Experimentation and Results :
 
+
 Accuracy of models during 10 folds with 80-20 split of data
+
 
 ![alt text](https://github.com/SheetalJade2019/CustomerBehaviourPrediction/blob/master/screenshot/Accuracy_with_80_20.png)
 
+
 Accuracy of models during 10 folds with 70-30 split of data
+
 
 ![alt text](https://github.com/SheetalJade2019/CustomerBehaviourPrediction/blob/master/screenshot/Accuracy_with_70_30.png)
 
+
 Accuracy of models during 10 folds with 60-40 split of data
+
 
 ![alt text](https://github.com/SheetalJade2019/CustomerBehaviourPrediction/blob/master/screenshot/Accuracy_with_60_40.png)
 
+
 Minimum, Maximum and Mean Accuracy of models
+
 
 ![alt text](https://github.com/SheetalJade2019/CustomerBehaviourPrediction/blob/master/screenshot/comparison.png)
 
+
 Confusion Matrix for RFA
+
 
 ![alt text](https://github.com/SheetalJade2019/CustomerBehaviourPrediction/blob/master/screenshot/ConfusionMatrix.png)
 
+
 Classification Report for RFA
+
 
 ![alt text](https://github.com/SheetalJade2019/CustomerBehaviourPrediction/blob/master/screenshot/ClassificationReport.png)
 
