@@ -16,22 +16,15 @@ Customer Behavior Prediction Model :
 
 Problem Statement :
 
-To propose efficient model for customer behavior mining in the domain of online shopping.
-Study and understand the current research work being done in this area.
-Improving feature engineering to improve accuracy of model.
-Selecting best suitable algorithm for classification.
+To propose efficient model for customer behavior mining in the domain of online shopping. Study and understand the current research work being done in this area. Improving feature engineering to improve accuracy of model. Selecting best suitable algorithm for classification.
   
 Objective :
 
-
-   •    To make the literature survey in the field of customer behavior prediction.
-   •    Selecting best suitable classification algorithm by comparing various algorithms.
-   •    Feature selection to improve accuracy and reduce unnecessary processing overhead.
-   
+To make the literature survey in the field of customer behavior prediction. Selecting best suitable classification algorithm by comparing various algorithms. Feature selection to improve accuracy and reduce unnecessary processing overhead.
    
 Proposed System Design :
 
-
+![alt text](https://github.com/SheetalJade2019/CustomerBehaviourPrediction/blob/master/PSD.png)
 
 
 
