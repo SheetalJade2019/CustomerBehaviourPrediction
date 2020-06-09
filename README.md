@@ -12,7 +12,7 @@ Nowadays people are very busy. They don't have time to go to shop. So, Customers
 
 Customer Behavior Prediction Model :
 
-![alt text](https://github.com/SheetalJade2019/CustomerBehaviourPrediction/blob/master/CBPM.png)
+![alt text](https://github.com/SheetalJade2019/CustomerBehaviourPrediction/blob/master/screenshot/CBPM.png)
 
 Problem Statement :
 
@@ -24,7 +24,7 @@ To make the literature survey in the field of customer behavior prediction. Sele
    
 Proposed System Design :
 
-![alt text](https://github.com/SheetalJade2019/CustomerBehaviourPrediction/blob/master/PSD.png)
+![alt text](https://github.com/SheetalJade2019/CustomerBehaviourPrediction/blob/master/screenshot/PSD.png)
 
 
 
